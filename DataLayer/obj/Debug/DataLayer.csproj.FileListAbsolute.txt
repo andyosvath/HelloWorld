@@ -1,0 +1,7 @@
+E:\AHJ\Jobs\Crowe Horwath\Test\DataLayer\bin\Debug\DataLayer.exe.config
+E:\AHJ\Jobs\Crowe Horwath\Test\DataLayer\bin\Debug\DataLayer.exe
+E:\AHJ\Jobs\Crowe Horwath\Test\DataLayer\bin\Debug\DataLayer.pdb
+E:\AHJ\Jobs\Crowe Horwath\Test\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+E:\AHJ\Jobs\Crowe Horwath\Test\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+E:\AHJ\Jobs\Crowe Horwath\Test\DataLayer\obj\Debug\DataLayer.exe
+E:\AHJ\Jobs\Crowe Horwath\Test\DataLayer\obj\Debug\DataLayer.pdb

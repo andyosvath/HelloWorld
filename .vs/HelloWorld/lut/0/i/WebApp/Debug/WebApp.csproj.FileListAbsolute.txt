@@ -1,0 +1,7 @@
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\.vs\HelloWorld\lut\0\b\HelloWorld\WebApp\bin\WebApp.dll.config
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\.vs\HelloWorld\lut\0\b\HelloWorld\WebApp\bin\WebApp.dll
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\.vs\HelloWorld\lut\0\b\HelloWorld\WebApp\bin\WebApp.pdb
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\.vs\HelloWorld\lut\0\i\WebApp\Debug\WebApp.csprojResolveAssemblyReference.cache
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\.vs\HelloWorld\lut\0\i\WebApp\Debug\WebApp.csproj.CoreCompileInputs.cache
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\.vs\HelloWorld\lut\0\i\WebApp\Debug\WebApp.dll
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\.vs\HelloWorld\lut\0\i\WebApp\Debug\WebApp.pdb

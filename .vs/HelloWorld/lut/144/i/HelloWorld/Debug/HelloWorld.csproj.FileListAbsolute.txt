@@ -1,0 +1,6 @@
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\.vs\HelloWorld\lut\0\b\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\.vs\HelloWorld\lut\0\b\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\.vs\HelloWorld\lut\0\b\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\.vs\HelloWorld\lut\0\i\HelloWorld\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\.vs\HelloWorld\lut\0\i\HelloWorld\Debug\HelloWorld.exe
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\.vs\HelloWorld\lut\0\i\HelloWorld\Debug\HelloWorld.pdb

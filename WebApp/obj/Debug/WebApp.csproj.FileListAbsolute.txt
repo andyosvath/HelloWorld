@@ -1,0 +1,16 @@
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\WebApp\bin\WebApp.dll.config
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\WebApp\bin\WebApp.dll
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\WebApp\bin\WebApp.pdb
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\WebApp\bin\Newtonsoft.Json.dll
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\WebApp\bin\System.Net.Http.Formatting.dll
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\WebApp\bin\System.Web.Http.dll
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\WebApp\bin\System.Web.Http.WebHost.dll
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\WebApp\bin\Newtonsoft.Json.xml
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\WebApp\bin\System.Net.Http.Formatting.xml
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\WebApp\bin\System.Web.Http.xml
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\WebApp\bin\System.Web.Http.WebHost.xml
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\WebApp\obj\Debug\WebApp.dll
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\WebApp\obj\Debug\WebApp.pdb

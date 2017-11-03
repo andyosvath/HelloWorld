@@ -1,0 +1,9 @@
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\.vs\HelloWorld\lut\0\b\HelloWorld\WebApp.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\.vs\HelloWorld\lut\0\b\HelloWorld\WebApp.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\.vs\HelloWorld\lut\0\b\HelloWorld\WebApp.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\.vs\HelloWorld\lut\0\b\HelloWorld\WebApp.Test\bin\Debug\WebApp.Test.dll
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\.vs\HelloWorld\lut\0\b\HelloWorld\WebApp.Test\bin\Debug\WebApp.Test.pdb
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\.vs\HelloWorld\lut\0\i\WebApp.Test\Debug\WebApp.Test.csprojResolveAssemblyReference.cache
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\.vs\HelloWorld\lut\0\i\WebApp.Test\Debug\WebApp.Test.csproj.CoreCompileInputs.cache
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\.vs\HelloWorld\lut\0\i\WebApp.Test\Debug\WebApp.Test.dll
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\.vs\HelloWorld\lut\0\i\WebApp.Test\Debug\WebApp.Test.pdb

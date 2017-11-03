@@ -1,0 +1,6 @@
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\.vs\HelloWorld\lut\0\b\Test\DataLayer\bin\Debug\DataLayer.exe.config
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\.vs\HelloWorld\lut\0\b\Test\DataLayer\bin\Debug\DataLayer.exe
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\.vs\HelloWorld\lut\0\b\Test\DataLayer\bin\Debug\DataLayer.pdb
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\.vs\HelloWorld\lut\0\i\DataLayer\Debug\DataLayer.csproj.CoreCompileInputs.cache
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\.vs\HelloWorld\lut\0\i\DataLayer\Debug\DataLayer.exe
+E:\AHJ\Jobs\Crowe Horwath\HelloWorld\.vs\HelloWorld\lut\0\i\DataLayer\Debug\DataLayer.pdb
